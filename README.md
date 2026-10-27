@@ -111,6 +111,4 @@ identifiers). Only aggregate, non-identifying analyses are reported.
 A Multi-Model Framework Applied to the 2026 Nepal Floods. [Journal], [Year].
 ```
 
-## License
 
-Suggested: MIT License for the code, and CC BY 4.0 for the derived datasets (add `LICENSE` file before release).
